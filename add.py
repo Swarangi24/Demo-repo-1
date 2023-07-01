@@ -1,3 +1,4 @@
 a=24
 b=21
-print(a+b)
+c=11
+print(a+b+c)
